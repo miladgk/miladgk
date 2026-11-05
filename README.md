@@ -2,11 +2,11 @@
 
 **Computational Materials Physics | Data Engineering & Scientific ML | Helsinki, Finland**
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio Website-miladgk.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miladgk.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add your profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
-[![Google Scholar](https://img.shields.io/badge/Google Scholar-Add your profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
-[![ORCID](https://img.shields.io/badge/ORCID-Add your profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)
-[![Email](https://img.shields.io/badge/Email-Contact me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-miladgk.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miladgk.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_your_profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Add_your_profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
+[![ORCID](https://img.shields.io/badge/ORCID-Add_your_profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
 I build reliable data platforms, scientific machine-learning workflows, and computational simulation tools. My work connects industrial analytics, atomistic simulation, finite-element modeling, and reproducible research software.
 
@@ -107,13 +107,13 @@ These projects remain **strictly private**. The summaries below describe archite
 
 | Project | Area | Architecture / stack | Selected technical signal |
 |---|---|---|---|
-| [MLIP–KMC Research Review](https://github.com/miladgk/mlip_kmc_review) | Scientific research | LaTeX, Python, structured evidence library | ML interatomic potentials, kMC, verification logs, reproducible review workflow |
-| [Airflow Academy](https://github.com/miladgk/Apache-Airflow) | Data orchestration education | Next.js, FastAPI, Supabase, Docker, Airflow | Browser DAG execution, AST validation, isolated sandboxes, SSE logs |
-| [Smileprint](https://github.com/miladgk/Smileprint) | Compliance data platform | FastAPI, PostgreSQL, React, Docker, Caddy | Audit ledger, compliance insights, ESG calculations, PDF lineage |
-| [Verified FEM Workbench](https://github.com/miladgk/FEM) | Computational mechanics | Gmsh, Code_Aster, CalculiX, Docker | Review gates, analytical references, cross-solver verification |
-| [Parallel Anatomy FEA](https://github.com/miladgk/fea) | HPC simulation | Gmsh, DOLFINx, UFL, PETSc, MPI, HDF5 | CAD/anatomy import, parallel cases, XDMF/HDF5 output |
-| [Quantum ESPRESSO Advisor](https://github.com/miladgk/qe) | Electronic structure | Fortran, Python, Docker, Quantum ESPRESSO | Empirical benchmark ledger, input/log advisor, reproducible sweeps |
-| [Tessera](https://github.com/miladgk/game) | Mobile product engineering | Kotlin, Firebase, Room, Voronoi engine | Geometry gameplay, cloud services, privacy controls, monetization |
+| **MLIP–KMC Research Review** *(Private)* | Scientific research | LaTeX, Python, structured evidence library | ML interatomic potentials, kMC, verification logs, reproducible review workflow |
+| **Airflow Academy** *(Private)* | Data orchestration education | Next.js, FastAPI, Supabase, Docker, Airflow | Browser DAG execution, AST validation, isolated sandboxes, SSE logs |
+| **Smileprint** *(Private)* | Compliance data platform | FastAPI, PostgreSQL, React, Docker, Caddy | Audit ledger, compliance insights, ESG calculations, PDF lineage |
+| **Verified FEM Workbench** *(Private)* | Computational mechanics | Gmsh, Code_Aster, CalculiX, Docker | Review gates, analytical references, cross-solver verification |
+| **Parallel Anatomy FEA** *(Private)* | HPC simulation | Gmsh, DOLFINx, UFL, PETSc, MPI, HDF5 | CAD/anatomy import, parallel cases, XDMF/HDF5 output |
+| **Quantum ESPRESSO Advisor** *(Private)* | Electronic structure | Fortran, Python, Docker, Quantum ESPRESSO | Empirical benchmark ledger, input/log advisor, reproducible sweeps |
+| **Tessera** *(Private)* | Mobile product engineering | Kotlin, Firebase, Room, Voronoi engine | Geometry gameplay, cloud services, privacy controls, monetization |
 
 <details>
 <summary><strong>MLIP–KMC Research Review</strong> · LaTeX · Python · Scientific evidence management</summary>
@@ -267,7 +267,6 @@ A private Android application combining geometry-based puzzle gameplay, authenti
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LAMMPS](https://img.shields.io/badge/LAMMPS-Scientific_Computing-1f6feb?style=for-the-badge)
 ![VASP](https://img.shields.io/badge/VASP-Computational_Materials-6f42c1?style=for-the-badge)
 ![MACE / MLIPs](https://img.shields.io/badge/MACE_%2F_MLIPs-Interatomic_Potentials-6f42c1?style=for-the-badge)
