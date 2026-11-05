@@ -3,10 +3,8 @@
 **Computational Materials Physics | Data Engineering & Scientific ML | Helsinki, Finland**
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-miladgk.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miladgk.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_your_profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Add_your_profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
-[![ORCID](https://img.shields.io/badge/ORCID-Add_your_profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)
-[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milad_Ghaemi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-ghaemikermani/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=dzrQ6WsAAAAJ)
 
 I build reliable data platforms, scientific machine-learning workflows, and computational simulation tools. My work connects industrial analytics, atomistic simulation, finite-element modeling, and reproducible research software.
 
@@ -293,18 +291,18 @@ A private Android application combining geometry-based puzzle gameplay, authenti
 
 ## Publications
 
-A curated list of seven peer-reviewed publications will be added here with DOI and journal links.
-
-1. **Publication title** — Journal, year · [DOI](https://doi.org/DOI-PLACEHOLDER)
-2. **Publication title** — Journal, year · [DOI](https://doi.org/DOI-PLACEHOLDER)
-3. **Publication title** — Journal, year · [DOI](https://doi.org/DOI-PLACEHOLDER)
-4. **Publication title** — Journal, year · [DOI](https://doi.org/DOI-PLACEHOLDER)
-5. **Publication title** — Journal, year · [DOI](https://doi.org/DOI-PLACEHOLDER)
-6. **Publication title** — Journal, year · [DOI](https://doi.org/DOI-PLACEHOLDER)
-7. **Publication title** — Journal, year · [DOI](https://doi.org/DOI-PLACEHOLDER)
+1. **Crystallization dynamics and interfacial structure during HiPIMS growth of thin Nb films on Cu** — *Materials Today Communications* (2026) · Atomistic MD, HiPIMS thin-film deposition, Nb/Cu superconducting RF interfaces · [Search on Google Scholar](https://scholar.google.com/scholar?q=Crystallization+dynamics+and+interfacial+structure+during+HiPIMS+growth+of+thin+Nb+films+on+Cu) · [Add DOI](https://doi.org/)
+2. **Surface orientation effects on Cu blistering under high-fluence H ion irradiation** — *Acta Materialia* (2024) · Hydrogen blistering, ion irradiation, Cu surfaces, atomistic modeling · [Search on Google Scholar](https://scholar.google.com/scholar?q=Surface+orientation+effects+on+Cu+blistering+under+high-fluence+H+ion+irradiation) · [Add DOI](https://doi.org/)
+3. **Comparative study of Nb film growth on Cu substrates using DCMS and HiPIMS** — *Surface and Coatings Technology* (2024) · Thin-film growth mechanisms, DCMS vs. HiPIMS, energetic deposition · [Search on Google Scholar](https://scholar.google.com/scholar?q=Comparative+study+of+Nb+film+growth+on+Cu+substrates+using+DCMS+and+HiPIMS) · [Add DOI](https://doi.org/)
+4. **Notch-tip brittle-ductile transitions in metallic glasses** — *Extreme Mechanics Letters* (2022) · Metallic glasses, fracture mechanics, brittle-to-ductile transition · [Search on Google Scholar](https://scholar.google.com/scholar?q=Notch-tip+brittle-ductile+transitions+in+metallic+glasses) · [Add DOI](https://doi.org/)
+5. **Investigation of grain boundary mechanical failure under strain and stress control** — *ECS Journal of Solid State Science and Technology* (2021) · Grain boundary mechanics, failure analysis, atomistic deformation · [Search on Google Scholar](https://scholar.google.com/scholar?q=Investigation+of+grain+boundary+mechanical+failure+under+strain+and+stress+control) · [Add DOI](https://doi.org/)
+6. **Thermodynamic potentials and physical quantities of metallic glasses** — *Journal of Non-Crystalline Solids* (2020) · Amorphous alloys, thermodynamics, disordered systems · [Search on Google Scholar](https://scholar.google.com/scholar?q=Thermodynamic+potentials+and+physical+quantities+of+metallic+glasses) · [Add DOI](https://doi.org/)
+7. **Short- and medium-range ordering in Cu-Zr and Ni-Zr metallic glasses** — *Journal of Non-Crystalline Solids* (2018) · Cu-Zr / Ni-Zr metallic glasses, structural ordering, polyamorphism · [Search on Google Scholar](https://scholar.google.com/scholar?q=Short-+and+medium-range+ordering+in+Cu-Zr+and+Ni-Zr+metallic+glasses) · [Add DOI](https://doi.org/)
 
 ## Contact
 
 - GitHub: [@miladgk](https://github.com/miladgk)
 - Portfolio: [miladgk.github.io](https://miladgk.github.io)
+- LinkedIn: [Milad Ghaemi](https://www.linkedin.com/in/milad-ghaemikermani/)
+- Google Scholar: [Publications](https://scholar.google.com/citations?hl=en&user=dzrQ6WsAAAAJ)
 - Collaboration interests: data engineering, scientific machine learning, computational materials science, and computational mechanics.
