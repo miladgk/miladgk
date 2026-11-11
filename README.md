@@ -1,5 +1,9 @@
 # Milad Ghaemi, PhD
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-miladgk.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miladgk.github.io/)
+
+**🌐 [Explore Interactive Portfolio & Engineering Workflows](https://miladgk.github.io/)**
+
 **Computational Materials Physics | Data Engineering & Scientific ML | Helsinki, Finland**
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-miladgk.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miladgk.github.io)
